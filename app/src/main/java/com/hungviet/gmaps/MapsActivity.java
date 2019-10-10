@@ -108,7 +108,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         //TODO: Action when permission denied
                     }
                 }
-                //ạhdkajsndkasd
+
                 break;
         }
     }
